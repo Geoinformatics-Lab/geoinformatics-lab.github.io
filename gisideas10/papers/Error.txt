@@ -1,0 +1,22 @@
+................Line Number 75, Ayako FUNABIKI, Geological Survey of Japan, AIST, Yoshiki SAITO, Geological Survey of Japan, AIST, Van Phai VU , Hanoi University of Science, VNU, Hieu NGUYEN, Hanoi University of Science, VNU, Shigeko HARUYAMA, Graduate School of Bioresources, Mie University.............Holocene Abandoned Channel-Levee System on the Song Hong (Red River) Delta, Northern Vietnam.........348
+
+...............Line Number 79, Joerg Hartleib, Institut of Geography and Geology, University Greifswald, Germany, Reinhard Zölitz, Institut of Geography and Geology, University Greifswald, Germany...........FloraGREIF – A Virtual Flora of Mongolia......341
+
+...............Line Number 109, Quang Minh Nguyen, Department of Surveying, Hanoi University of Mining and Geology, Le Ngọc Giang, Department of Surveying, Hanoi University of Mining and Geology, Tran Manh Tuan, Department of Surveying, Hanoi University of Mining and Geology, Pham Xuan Truong, Department of Surveying, Hanoi University of Mining and Geology................Creating geo-data programming for smart devices....343
+
+...............Line Number 117, Quang Minh Nguyen, Department of Surveying, Hanoi University of Mining and Geology, Ngoc Giang Le, Department of Surveying, Hanoi University of Mining and Geology.....................Geographical information system for sustainable development of construction project in Hoian, Vietnam.........339
+
+...............Line Number 119, Thi Thu Hien Nguyen , Hanoi University of Mining and Geology, Thi mai Yen Nguyen, Van Anh Tran, Hanoi University of Mining and Geology.....................Application of WebGIS technology for data publishing on internet to tourism potential advertisement. The experiment area is Thua Thien Hue......344
+
+...............Line Number 125, Tuan Nguyen Quang, Cartography, RS and GIS Department, GeoSciences Faculty....................APPLIES REMOTE SENSING AND GIS IN GEOMORPHOLOGY RESEARCH FOR REASONABLE USE PLANNING NATURAL RESOURCES AND ENVIRONMENTAL PROTECTION KY ANH DISTRICT, HA TINH PROVINCE, VIETNAM....344
+
+...............Line Number 127, Pham Quy Nhan, Center for Water Resources Planning and Investigation, Hanoi, Vietnam, L.V Son, nstitute of Water Resources Planning, Hanoi, Vietnam, N.H Phuong, nstitute of Water Resources Planning, Hanoi, Vietnam.....................A HYDRO-DYNAMIC MODEL OF URBAN FLOODING IN HANOI.......346
+
+..............Line Number 133, Venkatesh Raghavan, Osaka City University, Japan, Gérald Fenoy, Geolabs, France, Nicolas Bozon, 3Liz, France.....................ZOO-Project: A Platform for Implementing Geospatial Web Processing Services........342
+
+
+...............Line Number 135, Yoshihide Sekimoto, CSIS, Center for Spatial Information Science, The University of Tokyo, Atsuto Watanabe, Graduate School of Frontier Science, The University of Tokyo, Toshikazu Nakamura, Graduate School of Frontier Science, The University of Tokyo.........................RECONSTRUCTION OF PEOPLE FLOW IN HANOI AND HCMC USING JICA PERSON TRIP DATA.........340
+
+...............Line Number 159, Masayuki Yanagisawa, Center for Intergrated Area Studies, Kyoto University...................Agricultural Development in Red River Delta.......346
+
+...............Line Number 161, go yonezawa, Research Institute for Humanity and Nature, Ayako Funabiki, AIST, Susumu Nonogaki, AIST, Venkatesh Raghavan, OCU, Shoichi Ota, Shinji Masumoto, OCU, Mamoru Shibayama, Yumio Sakurai.......................3D Urban Model of Hanoi, Vietnam.....340

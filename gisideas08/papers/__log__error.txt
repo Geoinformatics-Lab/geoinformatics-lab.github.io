@@ -1,0 +1,35 @@
+Cant detect papers(deleted)
+該当論文なし３１３　Concept of Global and Vietnam Resilience Networks to Cope with Global Change
+該当論文なし３０４　Event Markup: A Potential Revolution for Metadata
+該当論文なし３０６　Climate Change in Vietnam and Adaptation Measures
+該当論文なし３１４　Building Web-Enabled, Science-Based, Multiple Use Spatial Decision Support Tools
+
+
+NO PDF DATA
+p19　３０１　TELDAP! Looking to the Future
+p20　３００　Informatics and GIS Applications for Risk Management
+p21　３０２　Mapping and Modeling of Invasive Species using Remote Sensing and GIS
+
+
+only abstractのみ
+３０８　APPLICATION OF SRTM3 AND LANDSAT ETM+ TO GENERATE GEOMORPHOLOGIC MAP FOR THE PURPOSE OF FLOOD RISK MAPPING IN HOI AN, VIETNAM
+２５２　PROBLEMS OF STATISTICAL DECISIONS IN GEOINFORMATION MONITORING
+２０９　ESTABLISHING SENSITIVITY INDEX MAP OF ECOSYSTEMS UNDER ENVIRONMENTAL IMPACTS FOR SUITABLE UTILIZATION OF TERRITORIAL LANDSCAPE AND SUSTAINABLE DEVELOPMENT
+２２２　RE-MAP: A Geoinformatic-Based Decision Support System for Assessment of Renewable Energy Resources to Mitigate and Adapt Global Climate Change in the Philippines
+２６７　Integration of remote sensing and GIS in mapping areas of flood inundation risk in Thua Thien Hue, Viet Nam
+２７１　On Detection of mineral oil spill in sea water areas using radio physical methods
+２４５　APPLICATION GIS IN WATER QUALITY DATA MANAGEMENT, CASE STUDY: INDUSTRIAL PARK AND PORT, BA RIA - VUNG TAU PROVINCE
+２７４　Integration of RS and GIS in Geospatial Database Building for Landuse Change Assessment in Binh Chanh District, Ho Chi Minh City
+２４９　Development of a Model for Location-based Service
+２５７　Landscape Analysis with Multispectral Aerial Images in the Bo Watershed, Central Vietnam
+３０９　MapJax - A WebGIS opensource framework for managing and reporting disaster related information
+３０７　Senegalese Land Register Modernization through OpenSource Software
+２４８　Integration OGC Web Services (OWS) With Google Maps Services
+２３４　Reduction of intra-class spectral variability in soft classification prediction and its applications for super-resolution mapping
+２２３　MAPPING VEGETATION IN HANOI USING TERRA ASTER AND GIS DATA
+３１０　The concept and system design for “Space Applications for Environment (SAFE)
+２３２　Regional landslide susceptibility mapping base on some approaches and considering the best one for final results for Thua Thien Hue area, Vietnam
+２７５　A Case Study: Applying the LARP (Living Angkor Road) Cultural Database to Art History
+２７６　Living Angkor Road Project Phase II
+２７７　Williams-Hunt Aerial Photograph Collection Online System
+

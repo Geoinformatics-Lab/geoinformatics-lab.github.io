@@ -1,0 +1,70 @@
+Not Found..........Line Number 65..... <b>Long Bui Ta, Laboratory for Environmental Modeling, Faculty of Environment and Natural Sciences, Hochiminh city University of Technology</b><br><a class=ArticleTitle href="papers/732">EVALUATING THE IMPACT OF TEMPERATURE ON THE SEASON STRUCTURE OF RICE IN DONG THAP PROVINCE, VIETNAM</a><br>
+
+Done======490........................Line Number 109..........<b>Truong Ho Lam, Vietnam National Space Center (VNSC)</b><br><a class=ArticleTitle href="papers/00ca9190217be29d9eb6012eec0e.pdf">Accessibility of urban green space in Ho Chi Minh city</a><br>
+
+307.......Line Number 139.........>Van Sy mai, Haiphong Construction Design and Consultant Joint Stock Company</b><br><b>Tuan Minh Ta, Defense Mapping Agency of VietNam </b><br><b>Truong Xuan Nguyen, Hanoi University of Mining and Geology</b><br><b>Thi Hai Van Tran, Hanoi University of Mining and Geology</b><br><a class=ArticleTitle href="papers/765">APPLICATION OF VIRTUAL 3D CITY MODELS IN URBAN PLANNING</a><br>
+
+381.......Line Number 159......... <b>Nguyen Ngoc Lau</b><br><b>Pham Can</b><br><a class=ArticleTitle href="papers/704">IMPROVING ACCURACY OF REAL TIME KINEMATIC POSITIONING BY USING PPP WITH IGS-RTS CORRECTIONS</a><br>
+
+267......Line Number 167........<b>Thanh Ngan Nguyen, Faculty of Environment, Ho Chi Minh City University of Natural Resources and Environment</b><br><b>Thi Dung Le, Faculty of Environment and Natural Resources, Ho Chi Minh City University of Technology</b><br><a class=ArticleTitle href="papers/1218a69a8c80c3f0b2842c878034.pdf">APPLYING GIS AND RS IN ASSESSING THE CHANGE OF FOREST COVER IN THUA THIEN HUE PROVINCE: A CASE STUDY FROM 1989 TO 2015</a><br>
+
+97......Line Number 179........<b>Ngoc Nguyen Bich, University of Agriculture and Forestry, Hue University</b><br><b>Ngu Nguyen Huu, University of Agriculture and Forestry, Hue University</b><br><b>Duc Tran Thanh, University of Agriculture and Forestry, Hue University</b><br><b>Nguyen Van Phuc Thinh</b><br><a class=ArticleTitle href="papers/abst1.pdf">ASSESSING THE IMPACT OF DROUGHT ON AGRICULTURAL LAND USE BY INTEGRATING REMOTE SENSING TECHNOLOGY AND METEOROLOGICAL DATA: A CASE STUDY IN QUANG DIEN DISTRICT, THUA THIEN HUE PROVINCE, VIETNAM</a><br>
+ 
+==========================================================================================================================================================================================================================
+Done............Line Number 197.........<b>Anh Nguyen-Tuan, Mientrung Industry and Trade College </b><br><b>Vu Phan-Hien, Ho Chi Minh City University of Technology</b><br><a class=ArticleTitle href="papers/758">Estimating water use for a rice crop in Phu Yen Province by remote sensing and GIS techniques</a><br>
+
+Done.........Line Number 199... <b>Anh Vu Nguyen Van, Ho Chi Minh City Space Technology Application Center-Vietnam National Space Center </b><br><a class=ArticleTitle href="papers/752">riverbank change detection in the downstream of Ba/Da Rang river in Phu Yen province by remote sensing</a><br>
+
+26............Line Number 203....b>Carlos Pascual, College of Engineering/Graduate School, Mariano Marcos State University</b><br><a class=ArticleTitle href="papers/694">ASSESSMENT OF RENEWABLE ENERGY SYSTEMS IN NORTHERN PHILIPPINES USING GEOSPATIAL TOOLKIT</a><br>
+
+473...........Line Number 205....... <b>Phatsasi Phailahan, Department of natural resources and environment,Naresuan University</b><br><b>Kampanart Piyathamrongchai, Department of natural resources and environment,Naresuan University</b><br><a class=ArticleTitle href="papers/735">Application of GIS for analyze current waste collection routes and find effective routes of Thapho Phitsanulok district, Phitsanulok Province.</a><br>
+
+Done.........Line Number 207.........b>Thao Nhi Pham, Institute for computational science and technology hcm City</b><br><a class=ArticleTitle href="papers/698">IMPACTS OF CLIMATE CHANGE ON WATER RESOURCES OF DONG NAI RIVER SYSTEM</a><br>
+
+Done.........Line Number 209...... <b>Bach Viet Pham, Space Tecnology Appication Center of Hochiminh City</b><br><a class=ArticleTitle href="papers/759">Urban expansion and its Land surface temperature changes in South Vietnam</a><br>
+
+226...........Line Number 211....... <b>Hoa Pham Thi Thanh</b><br><b>Quang Vu Ngoc</b><br><a class=ArticleTitle href="papers/773">Application of Standardized Precipitation Index (SPI) and GIS for drought assessment in Dak Nong province</a><br>
+
+Done.........Line Number 213......<b>Tuan Pham Van, Faculty of Natural Resources Management, Thai Nguyen University of Agriculture and Forestry</b><br><b>Thi Nguyen Quang, Faculty of Natural Resources Management, Thai Nguyen University of Agriculture and Forestry</b><br><b>Trung Chu Van, Faculty of Natural Resources Management, Thai Nguyen University of Agriculture and Forestry</b><br><b>Viet Duong Hong, Faculty of Natural Resources Management, Thai Nguyen University of Agriculture and Forestry</b><br><b>Tuyen Ha Van, Faculty of Natural Resources Management, Thai Nguyen University of Agriculture and Forestry</b><br><b>Linh Nguyen Thuy, Faculty of Natural Resources Management, Thai Nguyen University of Agriculture and Forestry</b><br><a class=ArticleTitle href="papers/715"> AN APPLICATION OF THERMAL REMOTE SENSING IN DETECTING AND MONITORING TEMPERATURE CHANGE IN DAI TU TEA GROWING AREA, THAI NGUYEN CITY BETWEEN 1990 AND 2015</a><br>
+
+Done............L No 215........ <b>Manh Pham Van, Faculty of Geography, Hanoi University of Science, Vietnam National University, Hanoi</b><br><b>Toan Dang Ngo Bao, Faculty of Geography – Land Administration, Quy Nhon University, Vietnam</b><br><b>Thach Nguyen Ngọc, Faculty of Geography, Hanoi University of Science, Vietnam National University, Hanoi</b><br><b>Tam Pham Minh, Faculty of Geography, Hanoi University of Science, Vietnam National University, Hanoi</b><br><b>Thanh Bui Quang, Faculty of Geography, Hanoi University of Science, Vietnam National University, Hanoi</b><br><b>Hong Nguyen Thi, Faculty of Geology, Hanoi University of Science, Vietnam National University, Hanoi</b><br><a class=ArticleTitle href="papers/723">Sentinel-1a sar data for forest aboveground biomass and carbon accumulation estimations in thuan chau district, Vietnam</a><br>
+
+
+274........L No 217.......... <b>Thi Anh Thu Phan, Vietnam National Uiniversity- Ho Chi Minh City University of Technology Faculty of Civil Engineering Department of Geomatics Engineering</b><br><b>kazuyoshi Takahashi, Environmental remote sensing Laboratory, Nagaoka university of Technology, Kamitomioka Nagaoka, Niigata 940-2188, Japan</b><br><a class=ArticleTitle href="papers/713">Estimation of rice plant height from laser point cloud data</a><br>
+
+104......L No 219......... <b>Vu Phan-Hien, Ho Chi Minh city University of Technology</b><br><b>Ngan Nguyen-Truong, Ho Chi Minh City University of Technology</b><br><b>Khanh Nguyen-Trong, Ho Chi Minh City University of Technology</b><br><b>Khanh Chau-Phuong, Ho Chi Minh City University of Technology</b><br><a class=ArticleTitle href="papers/696">Exploring LST changes in the Vietnamese Mekong River Delta with 2000 - 2015 MODIS data</a><br>
+
+163........l No 231....... <b>Thitisak Pothong, Major in Geographic Information Science, Faculty of Agriculture Natural Resources and Environment, Department of Natural Resources and Environment, Naresuan University, 99 Moo 9 Tambon Tha Pho, Amphoe Muang, Phitsanulok, Thailand 65000</b><br><b>Sittichai Choosumrong, Faculty of Agriculture Natural Resources and Environment, Department of Natural Resources and Environment, Naresuan University, 99 Moo 9 Tambon Tha Pho, Amphoe Muang, Phitsanulok, Thailand 65000</b><br><a class=ArticleTitle href="papers/716">Development of Geoprocessing Service for Smart Farming using FOSS4G and IoT</a><br>
+
+170.....l no 235....... <b>Witsarut Rotchanatheeratham, Major in Geographic Information Science, Faculty of Agriculture Natural Resources and Environment, Department of Natural Resources and Environment, Naresuan University, , 99 Moo 9 Tambon Tha Pho, Amphoe Muang, Phitsanulok, Thailand 65000</b><br><b>Sittichai Choosumrong, Faculty of Agriculture Natural Resources and Environment, Department of Natural Resources and Environment, Naresuan University, 99 Moo 9 Tambon Tha Pho, Amphoe Muang, Phitsanulok, Thailand 65000</b><br><a class=ArticleTitle href="papers/740">Development of real-time Smart Weather Station and Web Processing Service for Monitoring and Evaluation of field Environmental Data Based on IoT and FOSS4G</a><br>
+
+60....l no 239...... <b>Thanh Du Thai, Can Tho Univesity</b><br><a class=ArticleTitle href="papers/756">Application Of GIS in the Mapping of Soil Fertility Distribution in Mekong Delta</a><br>
+
+
+
+
+
+
+==========================================================================================================================================================================================================================
+
+
+176...........L no 245...<b>Do Thi Viet Huong, University of Sciences, Hue University</b><br><b>Nguyen Phuoc Gia Huy, University of Sciences, Hue University</b><br><b>Nguyen Bac Giang, University of Sciences, Hue University</b><br><a class=ArticleTitle href="papers/abst1.pdf">ORIENTATION PLANNING FOR DEVELOPING URBAN GREEN SPACE BY INTEGRATING GIS AND AHP: A CASE STUDY IN HUE CITY</a><br>
+
+
+
+479.........L No 249.......... <b>Quynh-An Tran, Hanoi University of Mining and Geology</b><br><b>Manh-Ha Nguyen, Saigon Real Estate Development Joint Stock Company</b><br><b>Thi-Kim-Thanh Nguyen, Hanoi University of Mining and Geology</b><br><b>Thi-Tuyet-Vinh Tran, Hanoi University of Mining and Geology</b><br><b>Thanh-Dat Duong, Hanoi University of Mining and Geology</b><br><a class=ArticleTitle href="papers/abst1.pdf">Establishing and exploiting the GIS database for the management of urban water drainage infrastructure</a><br>
+
+
+239.........L No 267......... <b>Phuong Tran Thi, University of Agriculture and Forestry, Hue University</b><br><b>Chuong Huynh Van, Hue University</b><br><a class=ArticleTitle href="papers/683">IDENTIFYING DROUGHT AFFECTING PADDY LAND IN URBAN AGRICULTURE AREA USING REMOTE SENSING AND ACTUAL OBSERVATIONAL PRECIPITATION DATA: A CASE STUDY IN HOA VANG DISTRICT, DANANG CITY, CENTRAL VIETNAM</a><br>
+
+
+183.........L No 277........ <b>Quang Chi Truong, CENRES, Can Tho University</b><br><b>Nghi Quang Huynh, CIT, Can Tho University</b><br><a class=ArticleTitle href="papers/778">Modeling of urban growth for cities separated by rivers and canals</a><br>
+
+287..........L No 281.........b>Tuan Quoc Vo, Can Tho University</b><br><b>Tung Thanh Tran, An Giang Department of Environment and Natural resources</b><br><b>Huong Thi Thu Huynh, Can Tho University</b><br><b>Minh Quang Vo, Can Tho University</b><br><a class=ArticleTitle href="papers/781">Assessment of possibility of using Sentinel-1 data in combination with Oryza model for rice production estimation: a case study in An Giang province, Mekong Delta </a><br>
+
+
+
+
+
+
+

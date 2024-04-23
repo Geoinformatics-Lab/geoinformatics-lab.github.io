@@ -1,0 +1,46 @@
+
+
+
+////////////////////////////////////////////      ABSTRACTS      //////////////////////////////////////////////////
+
+
+l no 73.........<b>Long Do Van, Ho Chi Minh City Institute of Information Technology</b><br><b>Tuyet Dao Van, Ho Chi Minh City Institute of Information Technology</b><br><b>Duan Ho Dinh, Ho Chi Minh City Institute of Physics</b><br><a class=ArticleTitle href="papers/173">An approaching to research and develop Geoinformatics base on open source systems</a><br>
+
+l no 77....... <b>okuku ediang, GIS/REMOTE SENSING</b><br><a class=ArticleTitle href="papers/188">Networking:A management strategy for Future of Remote Sensing &amp; GIS Integration in Nigeria</a><br>
+
+l no 79........... <b>okuku ediang, GIS/REMOTE SENSING</b><br><a class=ArticleTitle href="papers/189">REARCH AND CAPACITY BUILDING IN future of Remote Sensing &amp; GIS Integration in Nigeria.</a><br>
+
+l no 83....... <b>Cornelia Glaesser, Martin Luther University Halle, Institute of Geography, Germany</b><br><a class=ArticleTitle href="papers/163">INTEGRATED MULTISCALE AND MULTITEMPORAL REMOTE SENSING AND GIS SYSTEM FOR ASSESSMENT AND MONITORING OF ENVIRONMENTAL IMPACTS OF LIGNITE OPEN CAST MINING ACTIVITIES IN CENTRAL GERMANY</a><br>
+
+l no 101...... <b>suprajaka jaka, Researcher at The Center for Marine Natural Resources Survey, National Coordinating Agency for Survey and Mapping (BAKOSURTANAL) Indonesia</b><br><b>suwahyuono wahyu, Head of The Center for Marine Natural Resources Survey, National Coordinating Agency for Survey and Mapping (BAKOSURTANAL) Indonesia</b><br><b>A. Ari Dartooyo Ari, Researcher at The Center for Marine Natural Resources Survey, National Coordinating Agency for Survey and Mapping (BAKOSURTANAL) Indonesia</b><br><a class=ArticleTitle href="papers/187">Geographical Marine Resource Information System Applied Coastal Zone Management in Indonesia</a><br>
+
+l no 105..... <b>MINH NHAT Le, DDMFC_MARD</b><br><a class=ArticleTitle href="papers/181">Establishment of Intensity-Duration-Frequency curves </a><br>
+
+l no 107..... <b>Surat Lertlum, Mathematics and Computer Science Department, Chulachomklao Royal Military Academy</b><br><b>Panjai Tantatsanawong, Silpakorn university</b><br><b>Ang Choulean, APSARA Authority, Cambodia</b><br><b>Im Sokrithy, APSARA Authority, Cambodia</b><br><b>Pongdhan Sampaongen , Fine Art Department, Thailand </b><br><b>Warawutti Lohawijarn, Prince of Songkla University</b><br><a class=ArticleTitle href="papers/172">Living Angkor Road : Integrated Geo-informatics Approach for Archaeological Study </a><br>
+
+
+l no 149.... <b>Minh Nguyen Dinh</b><br><a class=ArticleTitle href="papers/129">MAPPING VEGETATION USING LANDSAT DATA IN BA VI DISTRICT, HA TAY PROVINCE, VIETNAM</a><br>
+
+l no 153.......... <b>Thach Nguyen Ngoc , Centre for applied of Remote sensing and GIS ( CARGIS), University of Science, Viet Nam National University, Ha Noi</b><br><b>Tai Nguyen Dinh, Centre for applied of Remote sensing and GIS ( CARGIS), University of Science, Viet Nam National University, Ha Noi</b><br><a class=ArticleTitle href="papers/141">Application of salinity index for determine salinization in coastal zone of hai phong city</a><br>
+
+l no 157... <b>Akiko Noda, Office of Space Applications, Japan Aerospace Exploration Agency</b><br><b>Yasushi Yamaguchi, Department of Earth and Planetary Sciences, Nagoya University</b><br><a class=ArticleTitle href="papers/148">Characterizing urban sprawl and its impacts by utilizing a simple spatial metric in a medium sized city of Japan</a><br>
+
+l no 163.... <b>Carlos Pascual, Department of Agricultural Engineering, College of Agriculture and Forestry, Mariano Marcos State University</b><br><a class=ArticleTitle href="papers/176">GEOINFORMATICS MAPPING OF RENEWABLE ENERGY SYSTEMS IN THE PHILIPPINES</a><br>
+
+l no 167....... <b>Le Phuoc Thanh, VidaGIS CO., Ltd., 05 Láng Hạ- Hà Nội </b><br><a class=ArticleTitle href="papers/183">GIS-Database forwater supply and waste water management</a><br>
+
+
+l no 183..... <b>Huynh Thi Minh Hang, IER</b><br><b>Kazuyo Hirose</b><br><b>Nguyen Hoang Anh, IER</b><br><a class=ArticleTitle href="papers/157">Studying the impacts of man-made topography on Mangrove forest – Case study of Cangio area, HCMC-Vietnam</a><br>
+
+l no 187........ <b>Le Thi Quynh Ha, Institute for Environment and Resources</b><br><a class=ArticleTitle href="papers/175">Modeling influence of water object to air pollution distribution by stacks for support to planning </a><br>
+
+l no 191...... <b>Roberto Torra, Departamento de Geociencias. Facultad de Ingeniería. Universidad Nacional del Nordeste</b><br><a class=ArticleTitle href="papers/134">Thematic 1:100,000 base-map of San Fernando, Donovan, Libertad and 1º de Mayo territories at the Northeastern Chaco Province, Argentina. Fundamental study-case through the use of LANDSAT TM 5 images</a><br>
+
+l no 193......... <b>Roberto Torra, Departamento de Geociencias. Facultad de Ingeniería. Universidad Nacional del Nordeste</b><br><a class=ArticleTitle href="papers/133">Application of LANDSAT TM 5 images to supervised and non-supervised classifications in the northeastern region of Argentina (South America). Creating proxies to automatic natural resources monitoring in mid-detail scales</a><br>
+
+l no 219...... <b>Yasushi Yamaguchi, Nagoya University</b><br><b>Akiyoshi Kato, Nagoya University</b><br><b>Soushi Kato, Nagoya University</b><br><a class=ArticleTitle href="papers/117">Assessment of water and temperature stresses of vegetation in urban areas by ASTER</a><br>
+
+
+
+
+
