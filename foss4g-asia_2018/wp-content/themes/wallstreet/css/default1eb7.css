@@ -230,7 +230,7 @@ input::-webkit-input-placeholder, textarea::-webkit-input-placeholder { color: #
 .blog-blockquote blockquote, .blog-post-title-wrapper > blockquote, .blog-post-title-wrapper-full > blockquote{ border-left: 3px solid #00c2a9; }
 
 .static-banner >.img-responsive {
-	    height: 600px !important;
+	    height: 349px !important;
     width: 100% !important;
 }
 
