@@ -1,4 +1,4 @@
-###About AGILE###
+### About AGILE
 
 The Association of GeoInformatics Laboratories for Earthsciences (AGILE) traces its origins to the Japan-Vietnam Geoinformatics Consortium (JVGC), which was established in 2002 to promote active scientific exchange on the prospects and challenges of emerging technological tools in Geoinformatics.
 
