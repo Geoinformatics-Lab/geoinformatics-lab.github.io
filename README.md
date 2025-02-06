@@ -1,12 +1,10 @@
-## Welcome to the Association of GeoInformatics Laboratories for Earthsciences (AGILE)
+###About AGILE###
 
-You can use the [editor on GitHub](https://github.com/Geoinformatics-Lab/geoinformatics-lab.github.io/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+The Association of GeoInformatics Laboratories for Earthsciences (AGILE) traces its origins to the Japan-Vietnam Geoinformatics Consortium (JVGC), which was established in 2002 to promote active scientific exchange on the prospects and challenges of emerging technological tools in Geoinformatics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In response to growing interest and expanded support, the name Association of GeoInformatics Laboratories for Earthsciences (AGILE) was formally adopted by JVGC on August 1, 2024. AGILE was registered as a General Incorporated Association (一般社団法人) in Osaka, Japan, on January 16, 2025, to further its mission of promoting Geoinformatics technologies and fostering a vibrant community of practitioners, researchers, students, and other stakeholders in Asia and beyond.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+AGILE aims to serve as a platform for academia, governments, businesses, and civil society to exchange ideas and knowledge on the application and utilization of Geoinformatics for societal benefit. To achieve this goal, AGILE aspires to function as a professional organization dedicated to advancing education, research, and international collaboration in Geoinformatics, encompassing the broad field of Earthsciences (*misspelling is intentional*).
 
 ```markdown
 Syntax highlighted code block
