@@ -8,7 +8,7 @@ In response to growing interest and expanded support, the name Association of Ge
 
 AGILE aims to serve as a platform for academia, governments, businesses, and civil society to exchange ideas and knowledge on the application and utilization of Geoinformatics for societal benefit. To achieve this goal, AGILE aspires to function as a professional organization dedicated to advancing education, research, and international collaboration in Geoinformatics, encompassing the broad field of Earthsciences (*misspelling is intentional*).
 
-### Markdown
+### Objectives
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
