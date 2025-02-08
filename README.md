@@ -23,4 +23,4 @@ AGILE will pursue the following objectives and activities to fulfill its mission
 
 AGILE aims to serve as a dynamic platform for advancing Geoinformatics in Earth sciences, prioritizing open knowledge, international collaboration, and professional growth.
 
-For more details see [Visit AGILE](https://theagile.earth).
+For more details [Visit AGILE](https://theagile.earth).
