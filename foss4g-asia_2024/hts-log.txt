@@ -1,0 +1,131 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 07 Mar 2025 10:11:38 at https://foss4g.asia/2024/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://foss4g.asia/2024/ -O1 "D:\httrack_Download\foss4g2024\foss4g2024" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:12:48	Error: 	"Forbidden" (403) at link https://foss4g.asia/2024/xmlrpc.php (from https://foss4g.asia/2024/)
+10:13:07	Error: 	"Forbidden" (403) at link https://foss4g.asia/2024/xmlrpc.php?rsd (from https://foss4g.asia/2024/)
+10:14:34	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png (from https://foss4g.asia/2024/)
+10:14:34	Warning: 	Moved Permanently for https://foss4g.asia/2024/home-5-business-forum/
+10:14:34	Warning: 	File has moved from https://foss4g.asia/2024/home-5-business-forum/ to https://foss4g.asia/2024/home-5-business-forum-2/
+10:14:44	Error: 	"Not Found" (404) at link https://foss4g.asia/2024/about-the-event/ (from https://foss4g.asia/2024/)
+10:15:17	Error: 	"Not Found" (404) at link https://foss4g.asia/2024/wp-content/themes/grandconference/css/ilightbox/closedhand.cur (from https://foss4g.asia/2024/wp-content/themes/grandconference/css/ilightbox/ilightbox.css)
+10:15:17	Error: 	"Not Found" (404) at link https://foss4g.asia/2024/wp-content/themes/grandconference/css/social_icons/facebook_16.png (from https://foss4g.asia/2024/wp-content/themes/grandconference/css/ilightbox/ilightbox.css)
+10:15:17	Error: 	"Not Found" (404) at link https://foss4g.asia/2024/wp-content/themes/grandconference/css/social_icons/digg_16.png (from https://foss4g.asia/2024/wp-content/themes/grandconference/css/ilightbox/ilightbox.css)
+10:15:17	Error: 	"Not Found" (404) at link https://foss4g.asia/2024/wp-content/themes/grandconference/css/social_icons/twitter_16.png (from https://foss4g.asia/2024/wp-content/themes/grandconference/css/ilightbox/ilightbox.css)
+10:15:17	Error: 	"Not Found" (404) at link https://foss4g.asia/2024/wp-content/themes/grandconference/css/social_icons/delicious_16.png (from https://foss4g.asia/2024/wp-content/themes/grandconference/css/ilightbox/ilightbox.css)
+10:15:17	Error: 	"Not Found" (404) at link https://foss4g.asia/2024/wp-content/themes/grandconference/css/social_icons/reddit_16.png (from https://foss4g.asia/2024/wp-content/themes/grandconference/css/ilightbox/ilightbox.css)
+10:15:17	Error: 	"Not Found" (404) at link https://foss4g.asia/2024/wp-content/themes/grandconference/css/social_icons/google_plus_16.png (from https://foss4g.asia/2024/wp-content/themes/grandconference/css/ilightbox/ilightbox.css)
+10:15:17	Error: 	"Not Found" (404) at link https://foss4g.asia/2024/wp-content/plugins/grandconference-elementor/assets/css/owl.video.play.png (from https://foss4g.asia/2024/wp-content/plugins/grandconference-elementor/assets/css/owl.theme.default.min.css)
+10:15:17	Error: 	"Not Found" (404) at link https://foss4g.asia/2024/wp-content/plugins/grandconference-elementor/assets/index.html (from https://foss4g.asia/2024/wp-content/plugins/grandconference-elementor/assets/css/grandconference-elementor.css)
+10:15:17	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=27
+10:15:17	Warning: 	File has moved from https://foss4g.asia/2024/?p=27 to https://foss4g.asia/2024/about/
+10:15:17	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=3985
+10:15:17	Warning: 	File has moved from https://foss4g.asia/2024/?p=3985 to https://foss4g.asia/2024/about/foss4g-history/
+10:15:17	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=4028
+10:15:17	Warning: 	File has moved from https://foss4g.asia/2024/?p=4028 to https://foss4g.asia/2024/about/foss4g-asia-2/
+10:15:17	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=281
+10:15:17	Warning: 	File has moved from https://foss4g.asia/2024/?p=281 to https://foss4g.asia/2024/secretariat/
+10:15:17	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=3518
+10:15:17	Warning: 	File has moved from https://foss4g.asia/2024/?p=3518 to https://foss4g.asia/2024/conference-committees/
+10:15:17	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=3816
+10:15:17	Warning: 	File has moved from https://foss4g.asia/2024/?p=3816 to https://foss4g.asia/2024/conference-logo/
+10:15:17	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=3792
+10:15:17	Warning: 	File has moved from https://foss4g.asia/2024/?p=3792 to https://foss4g.asia/2024/academic-track/
+10:15:17	Error: 	"Not Found" (404) at link https://foss4g.asia/2024/product/academic-track/ (from https://foss4g.asia/2024/academic-track/)
+10:15:17	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=3227
+10:15:17	Warning: 	File has moved from https://foss4g.asia/2024/?p=3227 to https://foss4g.asia/2024/general-track/
+10:15:17	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=138
+10:15:17	Warning: 	File has moved from https://foss4g.asia/2024/?p=138 to https://foss4g.asia/2024/poster-presentations/
+10:15:17	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=4741
+10:15:17	Warning: 	File has moved from https://foss4g.asia/2024/?p=4741 to https://foss4g.asia/2024/pretalx/
+10:15:17	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=1820
+10:15:17	Warning: 	File has moved from https://foss4g.asia/2024/?p=1820 to https://foss4g.asia/2024/speaker-classic/
+10:15:17	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=70
+10:15:17	Warning: 	File has moved from https://foss4g.asia/2024/?p=70 to https://foss4g.asia/2024/workshop-list/
+10:15:17	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=3911
+10:15:17	Warning: 	File has moved from https://foss4g.asia/2024/?p=3911 to https://foss4g.asia/2024/oral-presentation/
+10:15:17	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=5189
+10:15:17	Warning: 	File has moved from https://foss4g.asia/2024/?p=5189 to https://foss4g.asia/2024/poster-presentation/
+10:15:17	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=6024
+10:15:17	Warning: 	File has moved from https://foss4g.asia/2024/?p=6024 to https://foss4g.asia/2024/panel-discussion/
+10:15:17	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=32
+10:15:17	Warning: 	File has moved from https://foss4g.asia/2024/?p=32 to https://foss4g.asia/2024/awards/
+10:15:17	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=5683
+10:15:17	Warning: 	File has moved from https://foss4g.asia/2024/?p=5683 to https://foss4g.asia/2024/ic-breaking/
+10:15:18	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=5696
+10:15:18	Warning: 	File has moved from https://foss4g.asia/2024/?p=5696 to https://foss4g.asia/2024/gala-dinner/
+10:15:18	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=5935
+10:15:18	Warning: 	File has moved from https://foss4g.asia/2024/?p=5935 to https://foss4g.asia/2024/foss4g-venue-map/
+10:15:18	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=51
+10:15:18	Warning: 	File has moved from https://foss4g.asia/2024/?p=51 to https://foss4g.asia/2024/the-venue/
+10:15:18	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=5784
+10:15:18	Warning: 	File has moved from https://foss4g.asia/2024/?p=5784 to https://foss4g.asia/2024/accommodation-holidayinn/
+10:15:18	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=5240
+10:15:18	Warning: 	File has moved from https://foss4g.asia/2024/?p=5240 to https://foss4g.asia/2024/visiting-bangkok/
+10:15:18	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=5978
+10:15:18	Warning: 	File has moved from https://foss4g.asia/2024/?p=5978 to https://foss4g.asia/2024/thai-cultural-etiquette/
+10:15:18	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=5968
+10:15:18	Warning: 	File has moved from https://foss4g.asia/2024/?p=5968 to https://foss4g.asia/2024/internet-in-thailand-for-visitors/
+10:15:18	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=5887
+10:15:18	Warning: 	File has moved from https://foss4g.asia/2024/?p=5887 to https://foss4g.asia/2024/foss4gasia-souvenir/
+10:15:18	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=5228
+10:15:18	Warning: 	File has moved from https://foss4g.asia/2024/?p=5228 to https://foss4g.asia/2024/code-of-conduct/
+10:15:18	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=3670
+10:15:18	Warning: 	File has moved from https://foss4g.asia/2024/?p=3670 to https://foss4g.asia/2024/call-for-sponsors-2/
+10:15:18	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=5093
+10:15:18	Warning: 	File has moved from https://foss4g.asia/2024/?p=5093 to https://foss4g.asia/2024/foss4g-sponsor/
+10:15:18	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=5527
+10:15:18	Warning: 	File has moved from https://foss4g.asia/2024/?p=5527 to https://foss4g.asia/2024/schedule-query/
+10:15:18	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=126
+10:15:18	Warning: 	File has moved from https://foss4g.asia/2024/?p=126 to https://foss4g.asia/2024/speaker/keynote-hamid-mehmood/
+10:15:18	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=3036
+10:15:18	Warning: 	File has moved from https://foss4g.asia/2024/?p=3036 to https://foss4g.asia/2024/speaker/keynote-j-indu/
+10:15:18	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=5517
+10:15:18	Warning: 	File has moved from https://foss4g.asia/2024/?p=5517 to https://foss4g.asia/2024/speaker/keynote-kamolratn-chureesampant/
+10:15:18	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=4998
+10:15:18	Warning: 	File has moved from https://foss4g.asia/2024/?p=4998 to https://foss4g.asia/2024/speaker/keynote-markus-neteler/
+10:15:18	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=3023
+10:15:18	Warning: 	File has moved from https://foss4g.asia/2024/?p=3023 to https://foss4g.asia/2024/speaker/keynote-massimiliano-cannata/
+10:15:18	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=3883
+10:15:18	Warning: 	File has moved from https://foss4g.asia/2024/?p=3883 to https://foss4g.asia/2024/speaker/keynote-naphasinee-suebsuk/
+10:15:18	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=3022
+10:15:18	Warning: 	File has moved from https://foss4g.asia/2024/?p=3022 to https://foss4g.asia/2024/speaker/keynote-prapaporn-rojsiriruch/
+10:15:18	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=5664
+10:15:18	Warning: 	File has moved from https://foss4g.asia/2024/?p=5664 to https://foss4g.asia/2024/speaker/keynote-sarawut-ninsawat/
+10:15:18	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=5000
+10:15:18	Warning: 	File has moved from https://foss4g.asia/2024/?p=5000 to https://foss4g.asia/2024/speaker/keynote-toru-mori-2/
+10:15:18	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png (from https://foss4g.asia/2024/)
+10:15:27	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=1739
+10:15:27	Warning: 	File has moved from https://foss4g.asia/2024/?p=1739 to https://foss4g.asia/2024/schedule-tab/
+10:15:31	Error: 	"Not Found" (404) at link https://foss4g.asia/2024/?post_type=speaker&p=3898 (from https://foss4g.asia/2024/schedule-tab/)
+10:15:34	Error: 	"Not Found" (404) at link https://foss4g.asia/2024/?post_type=speaker&p=3877 (from https://foss4g.asia/2024/schedule-tab/)
+10:15:36	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=1774
+10:15:36	Warning: 	File has moved from https://foss4g.asia/2024/?p=1774 to https://foss4g.asia/2024/speaker-grid/
+10:15:37	Warning: 	File not parsed, looks like binary: https://foss4g.asia/2024/wp-content/plugins/revslider/public/assets/css/openhand.cur
+10:15:37	Warning: 	File not parsed, looks like binary: https://foss4g.asia/2024/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+10:15:37	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png (from https://foss4g.asia/2024/)
+10:15:37	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=3703
+10:15:37	Warning: 	File has moved from https://foss4g.asia/2024/?p=3703 to https://foss4g.asia/2024/home-5-business-forum-2/
+10:15:39	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=3021
+10:15:39	Warning: 	File has moved from https://foss4g.asia/2024/?p=3021 to https://foss4g.asia/2024/speaker/workshop/
+10:15:39	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=128
+10:15:39	Warning: 	File has moved from https://foss4g.asia/2024/?p=128 to https://foss4g.asia/2024/speaker/technical-session/
+10:15:39	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=3020
+10:15:39	Warning: 	File has moved from https://foss4g.asia/2024/?p=3020 to https://foss4g.asia/2024/speaker/poster-session/
+10:15:39	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=4567
+10:15:39	Warning: 	File has moved from https://foss4g.asia/2024/?p=4567 to https://foss4g.asia/2024/speaker/ait-representatives/
+10:15:39	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=4568
+10:15:39	Warning: 	File has moved from https://foss4g.asia/2024/?p=4568 to https://foss4g.asia/2024/speaker/government-representatives/
+10:15:39	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=3038
+10:15:39	Warning: 	File has moved from https://foss4g.asia/2024/?p=3038 to https://foss4g.asia/2024/speaker/representatives-osgeo/
+10:15:39	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=3019
+10:15:39	Warning: 	File has moved from https://foss4g.asia/2024/?p=3019 to https://foss4g.asia/2024/speaker/academic-session/
+10:15:39	Warning: 	Moved Permanently for https://foss4g.asia/2024/?p=1338
+10:15:39	Warning: 	File has moved from https://foss4g.asia/2024/?p=1338 to https://foss4g.asia/2024/buy-tickets-2/
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 1 seconds : 813 links scanned, 744 files written (53133380 bytes overall) [37010369 bytes received at 153569 bytes/sec], 23068193 bytes transferred using HTTP compression in 367 files, ratio 17%, 29.0 requests per connection
+(16 errors, 104 warnings, 0 messages)
