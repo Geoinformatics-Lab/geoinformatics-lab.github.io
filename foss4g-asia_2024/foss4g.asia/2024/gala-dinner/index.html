@@ -901,7 +901,7 @@ var woocommerce_params = {"ajax_url":"\/2024\/wp-admin\/admin-ajax.php","wc_ajax
     <script>
         const map = L.map('map').setView([13.73976, 100.56561], 16);
 
-        L.tileLayer('../../../%7bs%7d.tile.openstreetmap.org/%7bz%7d/%7bx%7d/%7by%7d.png', {
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             maxZoom: 19,
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         }).addTo(map);
